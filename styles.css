@@ -1,0 +1,86 @@
+body{
+ background-color: rgb(110, 179, 224);
+ text-align: center;
+font-family: cursive;
+}
+h1{
+  color: darkolivegreen;
+width: 50%;
+margin: 10% auto 0% auto;
+}
+
+h2{
+  color: indigo;
+}
+h3{
+  color: indigo;
+}
+.btn{
+  color: brown;
+  text-decoration: none;
+}
+a{
+  color: indigo;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px 10px;
+}
+ a:hover{
+  color: aliceblue;
+ }
+
+.top-container{
+
+}
+
+   
+.middle-container{
+
+}
+.bottom-container{
+background-color: darkcyan;
+}
+
+
+    
+span{
+text-decoration: underline; 
+}
+
+.top-cloud{
+position: absolute;
+ right: 300px;
+ top: 50px;
+}
+.bottom-cloud{
+position: absolute;
+left: 300px;
+top: 230px; 
+}
+.me{
+width: 120px;
+height: 120px;
+position: relative;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img{
+  width: 25%;
+  float: left;
+}
+.video-img{
+  width: 15%;
+  float: right;
+}
+hr{
+  border: dotted lightcyan 6px;
+  border-bottom: none;
+  width: 7%;
+  margin: 100px auto;
+}
